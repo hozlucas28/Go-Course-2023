@@ -30,13 +30,13 @@
     Installation
 </h2>
 <p>
-    XXX.
+    Clone the repository, install <a href="https://go.dev/doc/install" target="_blank">Go</a> and use <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a> (code editor) with <a href="https://marketplace.visualstudio.com/items?itemName=golang.Go" target="_blank">Go</a> (extension) installed. Thats all! If you want to test a Go file write <code>go run &lt;FILE NAME&gt;</code> in a terminal, and you are going to see a result in your terminal.
 </p>
 
 <p>
     <i>
         <strong>• Optional:</strong>
-        XXX.
+        Run command <code>npm install</code> to install all packages used for make a clean code, like Prettier and Husky for pre-commits.
     </i>
 </p>
 
