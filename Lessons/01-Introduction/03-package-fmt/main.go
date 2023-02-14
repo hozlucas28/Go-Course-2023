@@ -1,8 +1,11 @@
 /* --------------------------------------------------------------------------
  * IMPORTANTE:
- *  			  - <%s> = Cuando tipo de dato es <String>.
- *  			  - <%d> = Cuando tipo de dato es <Integer>.
- *  			  - <%v> = Cuando tipo de dato no se conoce.
+ *  			  - <%t> = Cuando el tipo de dato es <Bool>.
+ *  			  - <%s> = Cuando el tipo de dato es <String>.
+ *  			  - <%d> = Cuando el tipo de dato es <Integer>.
+ *  			  - <%v> = Cuando el tipo de dato no se conoce.
+ *  			  - <%p> = Formatea el mensaje con la dirección de
+ *						   memoria de la variable ligada.
  *  			  - <%T> = Formatea el mensaje con el tipo de dato
  * 						   de la variable.
 -------------------------------------------------------------------------- */
@@ -34,7 +37,6 @@ func main() {
 	fmt.Println(message)
 
 	fmt.Printf("Hola %T, tu edad es %T años.\n", name, age)
-
 
 	// Ingreso de datos por teclado
 	fmt.Print("• Ingrese otro nombre:")

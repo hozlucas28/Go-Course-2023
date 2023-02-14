@@ -1,6 +1,6 @@
 /* --------------------------------------------------------------------------
  * APUNTES:
- * 		   Si no se le asigna ningun valor a las variables estas asumen un
+ * 		   Si no se le asigna ningún valor a las variables estas asumen un
  *		   valor por defecto, según el tipo de dato.
  *
  *
