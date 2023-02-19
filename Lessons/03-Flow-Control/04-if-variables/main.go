@@ -20,8 +20,10 @@ func main() {
 	users["Lucas"] = "hozlucas28@gmail.com"
 	users["Nahuel"] = "hoznahuel28@gmail.com"
 
-	// email, exist := users["Lucas"]
-	// fmt.Println(email, exist)
+	/*
+		email, exist := users["Lucas"]
+		fmt.Println(email, exist)
+	*/
 
 	if email, exist := users["Lucas"]; exist {
 		fmt.Println("• Email:", email)

@@ -17,9 +17,11 @@ func main() {
 	names := [...]string{"Lucas", "Nahuel", "Juan"}
 
 	// Ejemplo de tipo <for>
-	// for i := 0; i < len(names); i++ {
-	// 	fmt.Println(names[i])
-	// }
+	/*
+		for i := 0; i < len(names); i++ {
+			fmt.Println(names[i])
+		}
+	*/
 
 	// Ejemplo de tipo <forEach>
 	for i, element := range names {

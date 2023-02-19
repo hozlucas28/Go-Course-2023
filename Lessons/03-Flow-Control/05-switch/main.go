@@ -16,20 +16,22 @@ func main() {
 	fmt.Scanln(&vocal)
 
 	// Primer método
-	// switch {
-	// case vocal == "a" || vocal == "A":
-	// 	fmt.Printf("¡%s es vocal!", vocal)
-	// case vocal == "e" || vocal == "E":
-	// 	fmt.Printf("¡%s es vocal!", vocal)
-	// case vocal == "i" || vocal == "I":
-	// 	fmt.Printf("¡%s es vocal!", vocal)
-	// case vocal == "o" || vocal == "O":
-	// 	fmt.Printf("¡%s es vocal!", vocal)
-	// case vocal == "u" || vocal == "U":
-	// 	fmt.Printf("¡%s es vocal!", vocal)
-	// default:
-	// 	fmt.Printf("¡%s no es vocal!", vocal)
-	// }
+	/*
+		switch {
+		case vocal == "a" || vocal == "A":
+		 	fmt.Printf("¡%s es vocal!", vocal)
+		case vocal == "e" || vocal == "E":
+		 	fmt.Printf("¡%s es vocal!", vocal)
+		case vocal == "i" || vocal == "I":
+		 	fmt.Printf("¡%s es vocal!", vocal)
+		case vocal == "o" || vocal == "O":
+		 	fmt.Printf("¡%s es vocal!", vocal)
+		case vocal == "u" || vocal == "U":
+		 	fmt.Printf("¡%s es vocal!", vocal)
+		default:
+		 	fmt.Printf("¡%s no es vocal!", vocal)
+		}
+	*/
 
 	// Segundo método
 	switch vocal {
