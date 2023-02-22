@@ -64,7 +64,7 @@
             <a href="https://github.com/hozlucas28/Django-Course-2022" target="_blank">Repository of Django course</a>
         </li>
         <li>
-            <a href="https://github.com/hozlucas28/Go-Web-Course-2023" target="_blank">Repository of Go Web course</a>
+            <a href="https://github.com/hozlucas28/Go-Web-Course-2023" target="_blank">Repository of Go web course</a>
         </li>
         <li>
             <a href="https://github.com/hozlucas28/Go-Module-Practice-2023" target="_blank">Repository of Go module practice</a>
